@@ -1,0 +1,48 @@
+.chili {
+    color: brown; 
+
+}
+
+.skillet {
+    color: red;
+}
+
+.collards {
+    color: green; 
+}
+
+.chili, .skillet, .collards {
+    font-size: 18px;
+}
+
+.recipe-title {
+    color: rgb(211, 187, 187);
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(141, 13, 13);
+}
+
+.home{
+    font-size: 21px;
+    text-align: center;
+}
+
+.recipe-img{
+    text-align: center;
+}
+
+.desc-head, .ingr-head, .steps-head {
+    color: black;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+.desc-body, .ingr-body, .steps-body {
+    color: black;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
