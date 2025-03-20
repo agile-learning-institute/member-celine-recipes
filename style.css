@@ -1,6 +1,5 @@
 .chili {
     color: brown; 
-
 }
 
 .skillet {
@@ -8,7 +7,7 @@
 }
 
 .collards {
-    color: green; 
+    color: rgb(3, 87, 3); 
 }
 
 .chili, .skillet, .collards {
@@ -26,10 +25,12 @@
 .home{
     font-size: 21px;
     text-align: center;
+
 }
 
 .recipe-img{
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .desc-head, .ingr-head, .steps-head {
@@ -37,6 +38,8 @@
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    background-color: rgb(130, 204, 130);
+    padding: 2px 0px;
 
 }
 
@@ -44,5 +47,9 @@
     color: black;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
-
+    padding: 10px;
+    margin: 30px;
+    background-color: rgb(175, 103, 103);
+    width: 800px;
 }
+
